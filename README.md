@@ -5,6 +5,12 @@ identifying peak usage days and months, most active participant, frequently used
 media and link sharing trends on group level (overall) as well as individual level.
 • Explored & performed Data Cleaning, Data Pre-processing, performed EDA.
 
+## Screenshots of dashboard
+
+![App Screenshot](https://github.com/navajis07/NLP---whatsapp_chat_analysis/blob/main/Screenshot_20240721_172146.png)
+
+![App Screenshot](https://github.com/navajis07/SQL-case-study-on-pizza-sales/blob/main/screenshot/Screenshot_20240517_000253.png?raw=true)
+
 ## All you need to do:
 Export your WhatsApp conversation without Media to text file
 
@@ -25,3 +31,6 @@ You need Python 3.6 and above, its dependency packages:
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Navajis-Khan)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navajis-khan-92a369249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+
+
+https://github.com/navajis07/NLP---whatsapp_chat_analysis/blob/main/Screenshot_20240721_172146.png
