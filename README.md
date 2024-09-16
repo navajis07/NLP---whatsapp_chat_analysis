@@ -21,3 +21,7 @@ Emoji - Emoji for Python.
 
 ## Installation
 You need Python 3.6 and above, its dependency packages:
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Navajis-Khan)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navajis-khan-92a369249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
