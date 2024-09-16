@@ -40,4 +40,3 @@ I'm a Data Analyst Aspirant...
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navajis-khan-92a369249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
 
-https://github.com/navajis07/NLP---whatsapp_chat_analysis/blob/main/Screenshot_20240721_172146.png
